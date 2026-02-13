@@ -372,4 +372,4 @@ ISC
 
 ## Author
 
-Built as a technical assessment project for Contact Management System requirements.
+By Ravi Kumar
