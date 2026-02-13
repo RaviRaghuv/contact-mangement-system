@@ -4,7 +4,7 @@ A full-stack contact management application built with React, Express.js, Postgr
 
 
 
-# 🌐 Live Demo
+# Live Demo
 
 - 🔗 **Frontend (Vercel)**  
   https://contact-management-system-eight.vercel.app
