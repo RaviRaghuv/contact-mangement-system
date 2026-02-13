@@ -107,9 +107,9 @@ export default function ContactsPage() {
                         </div>
 
                         {/* User Avatar */}
-                        <div className="hidden md:flex items-center justify-center bg-white/20 backdrop-blur-md border border-white/30 rounded-full h-16 w-16 overflow-hidden shadow-sm">
+                        {/* <div className="hidden md:flex items-center justify-center bg-white/20 backdrop-blur-md border border-white/30 rounded-full h-16 w-16 overflow-hidden shadow-sm">
                             <img src={profileAvatar} alt="User Profile" className="w-full h-full object-cover" />
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
