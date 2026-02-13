@@ -10,7 +10,6 @@ import {
 } from '../components/Icons';
 import { Contact } from '../types/types';
 import companyIcon from '../assets/company-icon.png';
-import profileAvatar from '../assets/profile-avatar.png';
 import totalContactsIcon from '../assets/total-contacts-icon.png';
 
 export default function ContactsPage() {
