@@ -2,6 +2,21 @@
 
 A full-stack contact management application built with React, Express.js, PostgreSQL, and Drizzle ORM. This system allows users to manage their contacts with features like adding, viewing, searching, and deleting contacts.
 
+---
+
+# 🌐 Live Demo
+
+- 🔗 **Frontend (Vercel)**  
+  https://contact-management-system-eight.vercel.app
+
+- 🔗 **Backend API (Render)**  
+  https://contact-mangement-system-1h2p.onrender.com/api
+
+- ❤️ **Health Check**
+  https://contact-mangement-system-1h2p.onrender.com/health
+
+---
+
 ##  Features
 
 - ✅ **CRUD Operations**  
