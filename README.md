@@ -2,7 +2,7 @@
 
 A full-stack contact management application built with React, Express.js, PostgreSQL, and Drizzle ORM. This system allows users to manage their contacts with features like adding, viewing, searching, and deleting contacts.
 
----
+
 
 # 🌐 Live Demo
 
@@ -12,38 +12,38 @@ A full-stack contact management application built with React, Express.js, Postgr
 - 🔗 **Backend API (Render)**  
   https://contact-mangement-system-1h2p.onrender.com/api
 
-- ❤️ **Health Check**
+- **Health Check**
   https://contact-mangement-system-1h2p.onrender.com/health
 
----
+
 
 ##  Features
 
-- ✅ **CRUD Operations**  
+- **CRUD Operations**  
   Create, read, and delete contacts.
 
-- ✅ **Search & Filter**  
+- **Search & Filter**  
   Search contacts by name or company (case-insensitive).
 
-- ✅ **Form Validation**  
+- **Form Validation**  
   Client-side and server-side validation using Zod.
 
-- ✅ **Toast Notifications**  
+- **Toast Notifications**  
   User-friendly success and error notifications.
 
-- ✅ **Confirmation Dialogs**  
+- **Confirmation Dialogs**  
   Confirm before deleting contacts.
 
-- ✅ **Loading States**  
+- **Loading States**  
   Smooth loading indicators for all async operations.
 
-- ✅ **Error Handling**  
+- **Error Handling**  
   Comprehensive error handling throughout the app.
 
-- ✅ **Responsive Design**  
+- **Responsive Design**  
   Mobile-friendly UI built with Tailwind CSS.
 
-- ✅ **Modern UI**  
+- **Modern UI**  
   Clean, professional interface with smooth animations.
 
 ## Tech Stack
