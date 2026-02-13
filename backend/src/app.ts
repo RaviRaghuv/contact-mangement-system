@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-app.use('/api/contacts', contactsRouter);
+app.use('/contacts', contactsRouter);
 
 // Health check
 app.get('/health', (req, res) => {
