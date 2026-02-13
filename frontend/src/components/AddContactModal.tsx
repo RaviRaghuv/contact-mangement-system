@@ -131,7 +131,7 @@ export default function AddContactModal({ isOpen, onClose }: AddContactModalProp
                                             type="email"
                                             {...register('email')}
                                             className="block w-full rounded-lg border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm px-4 py-3 border placeholder-gray-400 transition-colors"
-                                            placeholder="john@example.com"
+                                            placeholder="abc@example.com"
                                         />
                                         {errors.email && (
                                             <p className="mt-1.5 text-sm text-red-600 font-medium">{errors.email.message}</p>
@@ -148,7 +148,7 @@ export default function AddContactModal({ isOpen, onClose }: AddContactModalProp
                                             type="tel"
                                             {...register('phone')}
                                             className="block w-full rounded-lg border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm px-4 py-3 border placeholder-gray-400 transition-colors"
-                                            placeholder="+1 234 567 8900"
+                                            placeholder="+91 xxxxx xxxxx"
                                         />
                                         {errors.phone && (
                                             <p className="mt-1.5 text-sm text-red-600 font-medium">{errors.phone.message}</p>
